@@ -9,7 +9,6 @@ package com.fpackage.common;
 import com.fpackage.connections.Client_CLIConnection;
 import com.mks.api.Command;
 import com.mks.api.Option;
-import com.mks.api.response.APIException;
 import com.mks.api.response.Response;
 import java.util.ArrayList;
 import java.util.HashMap;
