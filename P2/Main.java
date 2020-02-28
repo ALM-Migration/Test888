@@ -23,7 +23,7 @@ import javafx.scene.control.Hyperlink;
 
 /**
  *
- * @author gauravk1
+ * @author gauravk1 changing main class
  */
 public class Main {
 
